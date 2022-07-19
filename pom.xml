@@ -55,7 +55,8 @@
     <dependency>
       <groupId>io.jenkins.plugins</groupId>
       <artifactId>javax-activation-api</artifactId>
-      <version>1.2.0-3</version>
+      <!-- TODO https://github.com/jenkinsci/javax-activation-api-plugin/pull/16 -->
+      <version>1.2.0-4-rc30.f2e932827724</version>
     </dependency>
   </dependencies>
 
